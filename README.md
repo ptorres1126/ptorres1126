@@ -5,7 +5,7 @@
 - <b>Google Data Analytics Capstone</b>
   - [Bellabeat Case Study (Kaggle)](https://www.kaggle.com/code/ptorres1126/bellabeat-case-study)
 - <b>SQL</b>
-  - [SQL Project 1](LINK HERE)
+  - [SQL Bellabeat](https://github.com/ptorres1126/SQL-Bellabeat)
   - [SQL Project 2](LINK HERE)
   - [SQL Project 3](LINK HERE)
 - <b>Tableau</b>
