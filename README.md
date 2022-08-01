@@ -1,4 +1,4 @@
-<h1>Hi, I'm Patricia! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a> <a href="https://www.linkedin.com/in/patricia-delmar"></a></h1>
+<h1>Hi, I'm Patricia! <br/><a href="https://github.com/ptorres1126">Data Analyst</a> <a href="https://www.linkedin.com/in/patricia-delmar"></a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
