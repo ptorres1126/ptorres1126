@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Google Data Analytics Capstone</b>
-  - Bellabeat Case Study: [GitHub](https://github.com/ptorres1126/SQL-Bellabeat), [Kaggle](https://www.kaggle.com/code/ptorres1126/bellabeat-case-study)
+  - Bellabeat Case Study: [GitHub](https://github.com/ptorres1126/Bellabeat-Case-Study), [Kaggle](https://www.kaggle.com/code/ptorres1126/bellabeat-case-study)
 
 - <b>SQL</b>
   - [SQL Bellabeat](https://github.com/ptorres1126/SQL-Bellabeat)
