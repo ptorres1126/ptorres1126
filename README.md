@@ -7,14 +7,11 @@
 
 - <b>SQL</b>
   - [SQL Bellabeat](https://github.com/ptorres1126/SQL-Bellabeat)
-  - [SQL Project 2](LINK HERE)
-  - [SQL Project 3](LINK HERE)
-- <b>Tableau</b>
-  - [Tableau Project 1](LINK HERE)
-  - [Tableau Project 2](LINK HERE)
+- <b>Tableau Visualizations</b>
+  - [Tableau Bellabeat](https://public.tableau.com/views/BellabeatCaseStudy_16589712442360/FeatureUsage_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - [CO2 Emmisions Project](https://public.tableau.com/views/CO2EmissionsProject-LinkingDatainTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 - <b>R</b>
-  - [R Project 1](LINK HERE)
-  - [R Project 2](LINK HERE)
+  - [R Project (coming s👀n!)](LINK HERE)
 
 <h2>👾 My Creations:</h2>
 
