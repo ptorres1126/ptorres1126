@@ -8,8 +8,6 @@
 
 - <b>CO2 Emmisions Project:</b> [Tableau](https://public.tableau.com/views/CO2EmissionsProject-LinkingDatainTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-- <b>R</b>
-  - [R Project (coming s👀n!)](LINK HERE)
 
 <h2>👾 My Creations:</h2>
 
