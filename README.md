@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Covid Exploration:</b> 
+- <b>Covid Exploration:</b> [SQL](https://github.com/ptorres1126/Covid-Exploration/blob/main/covid_exploration.sql)
 
 - <b>Bellabeat Case Study(Google Data Analytics Capstone):</b> [GitHub](https://github.com/ptorres1126/Bellabeat-Case-Study), [Kaggle](https://www.kaggle.com/code/ptorres1126/bellabeat-case-study), [SQL](https://github.com/ptorres1126/Bellabeat-Case-Study/blob/main/bellabeat.sql), [Tableau](https://public.tableau.com/views/BellabeatCaseStudy_16589712442360/FeatureUsage_1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
