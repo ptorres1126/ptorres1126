@@ -19,10 +19,7 @@
 <h2> 📱 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-
 [linkedin]: https://www.linkedin.com/in/patricia-delmar
-[gmail]: mailto:ptorres1126@gmail.com
 
 <!--
 
