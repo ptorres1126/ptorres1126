@@ -8,6 +8,7 @@
 
 - <b>Bike Buyers Dashboard:</b> [Excel Pivot Tables & Dashboards](https://github.com/ptorres1126/Bike-Buyers)
 
+- <b>DC Sex Offender Registry:</b> [Power BI](https://github.com/ptorres1126/PowerBI-Projects/blob/main/README.md)
 
 - <b>CO2 Emmisions Project:</b> [Tableau](https://public.tableau.com/views/CO2EmissionsProject-LinkingDatainTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
